@@ -1,2 +1,2 @@
 Ecommerce DB Diagram 
-![Diagram](../master/myFolder/image.png)
+![Diagram](https://github.com/SabaFadhl/Ecommerce-Database/blob/main/Diagram.png)
